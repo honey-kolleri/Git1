@@ -1,0 +1,3 @@
+Creating Git Clone in Git Bash
+ Open Git bash
+ Create a folder
